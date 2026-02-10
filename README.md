@@ -7,6 +7,22 @@ This project demonstrates how a simple `.bat` file can simulate a realistic Wind
 The goal is to spread cybersecurity awareness and show why users should never execute unknown batch files.
 
 ---
+---
+
+## 📸 Screenshots
+
+### 🔹 Scan Start Screen
+![Scan Start](scan-start.png)
+
+---
+
+### 🔹 Threat Detection Screen
+![Threats Detected](threats.png)
+
+---
+
+### 🔹 System Compromised Screen
+![System Compromised](compromised.png)
 
 ## ❗ Important Notice
 
